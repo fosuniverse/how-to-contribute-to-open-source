@@ -1,3 +1,14 @@
+<!-- Do not translate this -->
+<details>
+<summary>
+<strong> Read this guide in English languages </strong>
+</summary>
+    <ul>
+        <li><a href="./README.md"> English </a></li>
+      
+    </ul>
+</details>
+<!-- Do not translate this -->
 # Welcome newbie Open Source contributors!
 
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
