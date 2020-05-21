@@ -1,11 +1,20 @@
 <!-- Do not translate this -->
 <details>
 <summary>
-<strong> Read this guide in English languages </strong>
+<strong> Read this guide in other languages </strong>
 </summary>
     <ul>
         <li><a href="./README.md"> English </a></li>
-      
+        <li><a href=""> 中文 </a></li>
+        <li><a href=""> русский </a></li>
+        <li><a href=""> Românesc </a></li>
+        <li><a href=""> Italiano </a></li>
+        <li><a href=""> Español </a></li>
+        <li><a href=""> Português (BR) </a></li>
+        <li><a href=""> Deutsch </a></li>
+        <li><a href=""> Ελληνικά </a></li>
+        <li><a href=""> Français </a></li>
+        <li><a href=""> 한국어 </a></li>
     </ul>
 </details>
 <!-- Do not translate this -->
