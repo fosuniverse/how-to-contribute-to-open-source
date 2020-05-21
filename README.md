@@ -15,6 +15,8 @@ If you have questions or comments, please create an issue.
 - [Contributing to Open Source in general](#contributing-to-open-source-in-general)
 - [Direct GitHub searches](#direct-github-searches)
 - [Mozilla's contributor ecosystem](#mozillas-contributor-ecosystem)
+- [Useful articles for new Open Source contributors](#useful-articles-for-new-open-source-contributors)
+
 
 
 ## Contributing to Open Source in general
