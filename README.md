@@ -54,6 +54,7 @@ If you have questions or comments, please create an issue.
 ## Direct GitHub searches
 Search links that point directly to suitable issues to contribute to on GitHub.
 - [is:issue is:open label:first-timers-only](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only)
+- [is:issue is:open label:good-first-bug](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Agood-first-bug)
 
 ## Mozilla's contributor ecosystem
 - [Good First Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - bugs that developers have identified as a good introduction to the project.
