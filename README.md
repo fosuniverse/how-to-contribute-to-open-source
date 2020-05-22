@@ -45,6 +45,7 @@ If you have questions or comments, please create an issue.
 - [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutorials by DigitalOcean to guide you on your way to contribution success here on GitHub.
 - [SourceSort](https://www.sourcesort.com) - searchable collection of open source projects looking for help, complete with metrics like first PR acceptance rate and response time that can make all the difference for new contributors.
 - ["Browse good first issues to start contributing to open source"](https://github.blog/2020-01-22-browse-good-first-issues-to-start-contributing-to-open-source/) - GitHub now helps you find good first issues to start contributing to open source.
+- [Contributing to Open Source: A Live Walkthrough from Beginning to End](https://medium.com/@kevinjin/contributing-to-open-source-walkthrough-part-0-b3dc43e6b720) - This walkthrough of an open source contribution covers everything from picking a suitable project, working on an issue, to getting the PR merged in.
 
 ## Direct GitHub searches
 Search links that point directly to suitable issues to contribute to on GitHub.
