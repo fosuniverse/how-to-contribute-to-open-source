@@ -65,6 +65,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [First Timers Only](https://kentcdodds.com/blog/first-timers-only) by [@kentcdodds](https://github.com/kentcdodds)
 - [A junior developer’s step-by-step guide to contributing to Open Source for the first time](https://hackernoon.com/contributing-to-open-source-the-sharks-are-photoshopped-47e22db1ab86) by [@LetaKeane](http://www.letakeane.com/)
 - [Learn Git and GitHub Step By Step (on Windows)](https://medium.com/@ows_ali/be93518e06dc) by [@ows-ali](https://medium.com/@ows_ali)
+- [First mission: Contributors page](https://medium.com/@forCrowd/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
 
 ## Using Version Control
 - [Think Like (a) Git](http://think-like-a-git.net/) - Git introduction for "advanced beginners," but are still struggling, in order to give you a simple strategy to safely experiment with git.
