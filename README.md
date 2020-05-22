@@ -41,8 +41,6 @@ If you have questions or comments, please create an issue.
 - [Open Source contribution initiatives](#open-source-contribution-initiatives)
 
 
-
-
 ## Contributing to Open Source in general
 - [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutorials by DigitalOcean to guide you on your way to contribution success here on GitHub.
 - [SourceSort](https://www.sourcesort.com) - searchable collection of open source projects looking for help, complete with metrics like first PR acceptance rate and response time that can make all the difference for new contributors.
