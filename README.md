@@ -77,6 +77,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 
 ## Open Source books
 - [Open Source Book Series](https://opensource.com/resources/ebooks) - Learn more about Open Source and the growing Open Source movement with a comprehensive list of free eBooks from https://opensource.com.
+- [Producing Open Source Software](http://producingoss.com/) - Producing Open Source Software is a book about the human side of Open Source development. It describes how successful projects operate, the expectations of users and developers, and the culture of free software.
 
 
 ## Open Source contribution initiatives
