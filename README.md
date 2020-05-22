@@ -59,6 +59,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 
 ## Mozilla's contributor ecosystem
 - [Good First Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - bugs that developers have identified as a good introduction to the project.
+- [What Can I Do For Mozilla](http://whatcanidoformozilla.org/) - figure out what you can work on by answering a bunch of questions about your skill set and interests.
 
 ## Useful articles for new Open Source contributors
 - [How to choose (and contribute to) your first Open Source project](https://github.com/collections/choosing-projects) by [@GitHub](https://github.com/github)
