@@ -25,8 +25,8 @@ If you have questions or comments, please create an issue.
 - [Mozilla's contributor ecosystem](#mozillas-contributor-ecosystem)
 - [Useful articles for new Open Source contributors](#useful-articles-for-new-open-source-contributors)
 - [Using Version Control](#using-version-control)
-- [Open Source books](#open-source-books)
-- [Open Source contribution initiatives](#open-source-contribution-initiatives)
+- [Open Source books]
+- [Open Source contribution initiatives]
 
 
 ## Contributing to Open Source in general
