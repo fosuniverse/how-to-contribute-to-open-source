@@ -67,6 +67,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [Pro Git](https://git-scm.com/book/en/v2) - The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress.
 - [Git Kraken](https://www.gitkraken.com/git-client) - Visual, cross-platform, and interactive `git` desktop application for 
 version control.
+- [Git-it](https://github.com/jlord/git-it-electron) - Step by step Git tutorial desktop app.
 
 ## Open Source books
 - [Open Source Book Series](https://opensource.com/resources/ebooks) - Learn more about Open Source and the growing Open Source movement with a comprehensive list of free eBooks from https://opensource.com.
