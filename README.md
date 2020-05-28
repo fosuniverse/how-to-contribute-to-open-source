@@ -68,6 +68,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [Git Kraken](https://www.gitkraken.com/git-client) - Visual, cross-platform, and interactive `git` desktop application for 
 version control.
 - [Git-it](https://github.com/jlord/git-it-electron) - Step by step Git tutorial desktop app.
+- [Flight Rules for Git](https://github.com/k88hudson/git-flight-rules) - A guide about what to do when things go wrong.
 
 ## Open Source books
 - [Open Source Book Series](https://opensource.com/resources/ebooks) - Learn more about Open Source and the growing Open Source movement with a comprehensive list of free eBooks from https://opensource.com.
