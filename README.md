@@ -69,6 +69,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 version control.
 - [Git-it](https://github.com/jlord/git-it-electron) - Step by step Git tutorial desktop app.
 - [Flight Rules for Git](https://github.com/k88hudson/git-flight-rules) - A guide about what to do when things go wrong.
+- [Git Guide for Beginners in Spanish](https://platzi.github.io/git-slides/#/) - A complete guide of slides about git and GitHub explained in Spanish. Una guía completa de diapositivas sobre git y GitHub explicadas en Español.
 
 ## Open Source books
 - [Open Source Book Series](https://opensource.com/resources/ebooks) - Learn more about Open Source and the growing Open Source movement with a comprehensive list of free eBooks from https://opensource.com.
