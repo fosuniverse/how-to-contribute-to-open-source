@@ -45,6 +45,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [is:issue is:open label:good-first-bug](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Agood-first-bug)
 - [is:issue is:open label:starter](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Astarter)
 - [is:issue is:open label:beginner](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abeginner)
+- [is:issue is:open label:"good first issue"](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3A"good+first+issue")
 
 ## Mozilla's contributor ecosystem
 - [Good First Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - bugs that developers have identified as a good introduction to the project.
